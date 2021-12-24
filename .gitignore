@@ -1,0 +1,10 @@
+.vs/
+*.db
+*.VC
+*.opendb
+*.exp
+*.iobj
+*.ipdb
+*.pdb
+*.ilk
+*.opendb
